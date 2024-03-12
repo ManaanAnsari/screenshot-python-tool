@@ -1,0 +1,4 @@
+Mac:
+monitor keyboard input
+allow to recordscreen
+record system audio
